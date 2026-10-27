@@ -1,5 +1,7 @@
 # comp
 
+[![ci](https://github.com/zg/comp/actions/workflows/ci.yml/badge.svg)](https://github.com/zg/comp/actions/workflows/ci.yml) [![Go Reference](https://pkg.go.dev/badge/github.com/zg/comp.svg)](https://pkg.go.dev/github.com/zg/comp) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 A compiler: software that transforms code written in one language (the
 source language) into another (the target language).
 
